@@ -127,5 +127,6 @@ See [CITATION.cff](CITATION.cff) for machine-readable citation.
 
 ## Related
 
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
 - [open-admin-data](https://github.com/open-admin-data) — Open administrative data for ASEAN countries
 - [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions) — Thailand dataset

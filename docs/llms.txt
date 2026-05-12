@@ -83,5 +83,6 @@ URL: https://github.com/open-admin-data/philippines-administrative-divisions
 
 ## Related
 
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
 - [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
 - [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)
