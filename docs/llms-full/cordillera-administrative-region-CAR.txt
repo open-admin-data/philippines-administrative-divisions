@@ -3,7 +3,7 @@
 > 6 provinces, 77 municipalitys, 1,176 barangays
 > Code: CAR
 > Coordinates: 17.0872, 120.9798
-> Last updated: 2026-05-12. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Provinces
 

@@ -3,7 +3,7 @@
 > 5 provinces, 142 municipalitys, 4,018 barangays
 > Code: R04A
 > Coordinates: 14.015, 121.4402
-> Last updated: 2026-05-12. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Provinces
 

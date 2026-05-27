@@ -3,7 +3,7 @@
 > 5 provinces, 73 municipalitys, 1,311 barangays
 > Code: R13
 > Coordinates: 9.4188, 125.6235
-> Last updated: 2026-05-12. License: CC-BY-4.0.
+> Last updated: 2026-05-27. License: CC-BY-4.0.
 
 ## Provinces
 
