@@ -27,5 +27,9 @@
     "lon": "120.9798"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ph/regions/cordillera-administrative-region-CAR/",
+    "api": "https://openadmindata.org/api/ph/"
+  }
 }

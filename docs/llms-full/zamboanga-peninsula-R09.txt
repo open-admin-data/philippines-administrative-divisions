@@ -3,7 +3,7 @@
 > 4 provinces, 72 municipalitys, 1,904 barangays
 > Code: R09
 > Coordinates: 7.9341, 123.0537
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

@@ -27,5 +27,9 @@
     "lon": "123.0537"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ph/regions/zamboanga-peninsula-R09/",
+    "api": "https://openadmindata.org/api/ph/"
+  }
 }

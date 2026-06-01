@@ -27,5 +27,9 @@
     "lon": "123.7963"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ph/regions/central-visayas-R07/",
+    "api": "https://openadmindata.org/api/ph/"
+  }
 }

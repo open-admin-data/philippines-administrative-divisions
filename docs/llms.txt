@@ -11,7 +11,7 @@
 - Total municipalitys: 1,634
 - Total barangays: 42,036
 - Coordinates: included (all levels)
-- Last updated: 2026-05-27
+- Last updated: 2026-06-01
 - License: CC-BY-4.0
 
 ## Aggregate Data Files

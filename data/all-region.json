@@ -28,7 +28,11 @@
       "lon": "120.5139"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/ilocos-region-R01/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R02",
@@ -59,7 +63,11 @@
       "lon": "121.6297"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/cagayan-valley-R02/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R03",
@@ -90,7 +98,11 @@
       "lon": "120.8297"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/central-luzon-R03/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R04A",
@@ -121,7 +133,11 @@
       "lon": "121.4402"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/calabarzon-R04A/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R05",
@@ -152,7 +168,11 @@
       "lon": "123.5496"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/bicol-region-R05/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R06",
@@ -183,7 +203,11 @@
       "lon": "122.6059"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/western-visayas-R06/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R07",
@@ -214,7 +238,11 @@
       "lon": "123.7963"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/central-visayas-R07/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R08",
@@ -245,7 +273,11 @@
       "lon": "124.8046"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/eastern-visayas-R08/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R09",
@@ -276,7 +308,11 @@
       "lon": "123.0537"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/zamboanga-peninsula-R09/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R10",
@@ -307,7 +343,11 @@
       "lon": "124.2992"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/northern-mindanao-R10/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R11",
@@ -338,7 +378,11 @@
       "lon": "125.2928"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/davao-region-R11/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R12",
@@ -369,7 +413,11 @@
       "lon": "124.7494"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/soccsksargen-R12/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "NCR",
@@ -400,7 +448,11 @@
       "lon": "121.2427"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/national-capital-region-NCR/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "CAR",
@@ -431,7 +483,11 @@
       "lon": "120.9798"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/cordillera-administrative-region-CAR/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "ARMM",
@@ -462,7 +518,11 @@
       "lon": "123.1515"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/autonomous-region-in-muslim-mindanao-ARMM/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R13",
@@ -493,7 +553,11 @@
       "lon": "125.6235"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/caraga-R13/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   },
   {
     "id": "R17",
@@ -524,6 +588,10 @@
       "lon": "120.8897"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ph/regions/mimaropa-region-R17/",
+      "api": "https://openadmindata.org/api/ph/"
+    }
   }
 ]

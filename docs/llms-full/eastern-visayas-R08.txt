@@ -3,7 +3,7 @@
 > 6 provinces, 143 municipalitys, 4,390 barangays
 > Code: R08
 > Coordinates: 11.3799, 124.8046
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

@@ -27,5 +27,9 @@
     "lon": "123.1515"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ph/regions/autonomous-region-in-muslim-mindanao-ARMM/",
+    "api": "https://openadmindata.org/api/ph/"
+  }
 }

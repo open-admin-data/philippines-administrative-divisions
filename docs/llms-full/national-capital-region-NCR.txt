@@ -3,7 +3,7 @@
 > 1 provinces, 17 municipalitys, 1,706 barangays
 > Code: NCR
 > Coordinates: 14.3898, 121.2427
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

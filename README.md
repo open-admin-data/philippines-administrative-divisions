@@ -16,7 +16,7 @@ Licensed under CC-BY-4.0. Browse the hierarchy through GitHub's folder navigatio
 | Postal Codes | ✅ Included (barangay level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/ph](https://openadmindata.org/ph/) |
 | API | [openadmindata.org/api/ph](https://openadmindata.org/api/ph/) |
 

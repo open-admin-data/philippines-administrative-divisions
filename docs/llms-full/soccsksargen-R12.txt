@@ -3,7 +3,7 @@
 > 5 provinces, 50 municipalitys, 1,195 barangays
 > Code: R12
 > Coordinates: 6.7977, 124.7494
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 

@@ -3,7 +3,7 @@
 > 5 provinces, 118 municipalitys, 2,490 barangays
 > Code: ARMM
 > Coordinates: 6.9071, 123.1515
-> Last updated: 2026-05-27. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Provinces
 
